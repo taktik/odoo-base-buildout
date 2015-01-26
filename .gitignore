@@ -52,3 +52,11 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Custom
+buildout.cfg
+bootstrap.py
+bin/
+src/
+addons*
+pycharm_helpers*
