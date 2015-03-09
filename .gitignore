@@ -60,3 +60,4 @@ bin/
 src/
 addons*
 pycharm_helpers*
+.idea*
